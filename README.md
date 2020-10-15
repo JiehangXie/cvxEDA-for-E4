@@ -7,7 +7,6 @@
 </div>
 </div>
 
-----------
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytorch-lightning)]()
 [![Conda](https://img.shields.io/conda/v/conda-forge/pytorch-lightning?label=conda&color=success)]()
 [![Build Status](https://travis-ci.org/soimort/you-get.svg)]()
