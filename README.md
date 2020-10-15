@@ -20,10 +20,10 @@
     pip install requirement.txt -r
 ## Installation
 ##### There are three ways to install this tool,and you can choose anyone according to your preference.
-##### 1.Download .zip instantly.
+##### 1.Download .zip from this page.
 ##### 2.Use `Git` method to install
     git clone https://github.com/JiehangXie/E4_cvxEDA.git
-##### 3.Download compiled version directly (Recommended!)
+##### 3.Download compiled version and run `eda2.exe` (Recommended!)
 ##### `Link：https://pan.baidu.com/s/1LZzyU_9kLMt6GTqw3u4b4A  Code：lxcf`
 ## Using Method
 #### 1.Download the data package from the Empatica website.
