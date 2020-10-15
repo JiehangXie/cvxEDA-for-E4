@@ -21,7 +21,7 @@
 ## Installation
 #### There are three ways to install this tool,and you can choose anyone according to your preference.
 #### 1.Download .zip instantly.
-#### 2.Use git method to install
+#### 2.Use `Git` method to install
     git clone https://github.com/JiehangXie/E4_cvxEDA.git
 #### 3.Download compiled version directly.
 #### `Link：https://pan.baidu.com/s/1LZzyU_9kLMt6GTqw3u4b4A  Code：lxcf`
@@ -35,5 +35,5 @@
 > Pay attendtion to the `artifact rate`.If it is over 15% or more,the data sample may be wrong.!!!
 ### 6.If the data is correct,close the window.And then the program will **automatically** create a file named	`MIT_Labels.csv` and `Tonic.csv`
 ## Quote & More Technical Detail
-###eda-explorer - https://github.com/MITMediaLabAffectiveComputing/eda-explorer
-###cvxEDA - https://github.com/lciti/cvxEDA
+### eda-explorer - https://github.com/MITMediaLabAffectiveComputing/eda-explorer
+### cvxEDA - https://github.com/lciti/cvxEDA
